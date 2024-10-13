@@ -45,7 +45,7 @@ body, html {
 }
 
 .coverimg img {
-    width: 250px; /* Adjust size if needed */
+    width: 250px; 
     display: block;
     margin-bottom: 30px;
 }
